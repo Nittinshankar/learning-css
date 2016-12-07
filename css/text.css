@@ -2,3 +2,12 @@
   color: blue;
   text-align: justify;
 }
+
+h1{
+  color: red;
+  text-decoration: line-through;
+}
+
+.even{
+  text-transform: uppercase;
+}
